@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "spassglas.mitternacht-theme",
+  "name": "Mitternacht",
+  "version": "1.0.0",
+  "category": "theme",
+  "author": "Spassglas Studio",
+  "description": "Dunkles Store-Theme mit hohem Kontrast fuer Sessions am Abend.",
+  "capabilities": ["theme"],
+  "icon": "icon.png",
+  "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
+  "license": "CC-BY-4.0"
+}
