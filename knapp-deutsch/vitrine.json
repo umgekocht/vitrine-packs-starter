@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "spassglas.knapp-deutsch",
+  "name": "Knapp-Deutsch",
+  "version": "1.0.0",
+  "category": "sprache",
+  "author": "Spassglas Studio",
+  "description": "Kurze deutsche Menütexte: Allein, Zusammen, Weiter -- statt der langen Originale. Ohne Neustart.",
+  "capabilities": [
+    "sprache"
+  ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
+  "license": "CC-BY-4.0"
+}

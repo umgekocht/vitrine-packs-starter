@@ -1,0 +1,10 @@
+{
+  "menu.singleplayer": "Allein",
+  "menu.multiplayer": "Zusammen",
+  "menu.options": "Optionen",
+  "menu.quit": "Beenden",
+  "menu.returnToMenu": "Zum Hauptmenü",
+  "menu.returnToGame": "Weiter",
+  "options.title": "Optionen",
+  "gui.done": "Fertig"
+}

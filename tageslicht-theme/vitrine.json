@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "spassglas.tageslicht-theme",
+  "name": "Tageslicht",
+  "version": "1.0.0",
+  "category": "theme",
+  "author": "Spassglas Studio",
+  "description": "Warmes Store-Theme mit Bernstein-Akzent -- hell am Tag, ruhig am Abend.",
+  "capabilities": [
+    "theme"
+  ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
+  "license": "CC-BY-4.0"
+}
