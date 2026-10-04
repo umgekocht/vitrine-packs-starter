@@ -11,12 +11,15 @@ Haupt-Repo), gebaut und signiert mit `cli/vitrine.js pack`/`sign` und als
 | Ordner | Kategorie | Paket-ID |
 |---|---|---|
 | `mitternacht-theme/` | theme | `spassglas.mitternacht-theme` |
+| `tageslicht-theme/` | theme | `spassglas.tageslicht-theme` |
 | `kompakt-hud/` | hud | `spassglas.kompakt-hud` |
 | `steinbrocken-textur/` | texturen | `spassglas.steinbrocken-textur` |
+| `holzbretter-textur/` | texturen | `spassglas.holzbretter-textur` |
+| `knapp-deutsch/` | sprache | `spassglas.knapp-deutsch` |
 
-Alle drei stehen unter `CC-BY-4.0`. Die Steinbrocken-Texturen sind bewusst
-einfache, selbst erzeugte Platzhalter-Flaechen (kein Fremd-Asset,
-Charter-Regel 6) -- ein handgezeichnetes Set ist in
+Alle stehen unter `CC-BY-4.0`. Die Steinbrocken- und Holzbretter-Texturen
+sind bewusst einfache, selbst erzeugte Platzhalter-Flaechen (kein
+Fremd-Asset, Charter-Regel 6) -- ein handgezeichnetes Set ist in
 `ASSETS-NEEDED.md` des Haupt-Repos als offen vermerkt.
 
 ## Releases
