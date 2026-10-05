@@ -2,11 +2,13 @@
   "schemaVersion": 1,
   "id": "spassglas.kompakt-hud",
   "name": "Kompakt-HUD",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "hud",
   "author": "Spassglas Studio",
   "description": "Platzsparendes HUD-Modul: Koordinaten, Uhrzeit und Fps kompakt in einer Ecke, ohne eine Zeile Java im Paket.",
-  "capabilities": ["hud"],
+  "capabilities": [
+    "hud"
+  ],
   "icon": "icon.png",
   "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
   "license": "CC-BY-4.0"

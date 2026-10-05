@@ -2,11 +2,13 @@
   "schemaVersion": 1,
   "id": "spassglas.holzbretter-textur",
   "name": "Holzbretter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "texturen",
   "author": "Spassglas Studio",
   "description": "Platzhalter-Holzbretter in drei Brauntoenen -- Eiche, Fichte, Birke. Ersetzt vanilla, bis ein handgezeichnetes Set nachkommt.",
-  "capabilities": ["texturen"],
+  "capabilities": [
+    "texturen"
+  ],
   "icon": "icon.png",
   "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
   "license": "CC-BY-4.0"
