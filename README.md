@@ -16,6 +16,7 @@ Haupt-Repo), gebaut und signiert mit `cli/vitrine.js pack`/`sign` und als
 | `steinbrocken-textur/` | texturen | `spassglas.steinbrocken-textur` |
 | `holzbretter-textur/` | texturen | `spassglas.holzbretter-textur` |
 | `knapp-deutsch/` | sprache | `spassglas.knapp-deutsch` |
+| `mehr-rezepte/` | addon | `spassglas.mehr-rezepte` |
 
 Alle stehen unter `CC-BY-4.0`. Die Steinbrocken- und Holzbretter-Texturen
 sind bewusst einfache, selbst erzeugte Platzhalter-Flaechen (kein
