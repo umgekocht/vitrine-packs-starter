@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "spassglas.biom-kompass",
+  "name": "Biom-Kompass",
+  "version": "1.0.0",
+  "category": "addon",
+  "author": "Spassglas Studio",
+  "description": "Zeigt dein aktuelles Biom als HUD-Wert, begruesst dich beim Weltbeitritt mit einem Ton und sagt per Chat-Befehl '/v biom' dein Biom erneut an. Reines Skript-Addon (ROADMAP AD2) -- wirkt sofort, ohne Neustart.",
+  "capabilities": [
+    "skript"
+  ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/umgekocht/vitrine-packs-starter",
+  "license": "CC-BY-4.0"
+}
